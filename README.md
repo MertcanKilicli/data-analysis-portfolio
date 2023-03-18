@@ -37,5 +37,7 @@ I believe the best way to showcase skills is to do and share what you do. Certif
 # Contacts
 
 [Linkedin](https://www.linkedin.com/in/mertcan-k%C4%B1l%C4%B1%C3%A7l%C4%B1-5b3492213/)
+
 [Twitter](https://twitter.com/fullmetee)
+
 [E-mail](mertcankiliclii@gmail.com)
