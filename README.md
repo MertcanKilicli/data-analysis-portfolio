@@ -16,4 +16,10 @@ Blood pressure values analysis --> https://github.com/MertcanKilicli/data-analys
 
 decibel values analysis --> https://github.com/MertcanKilicli/data-analysis-projects/blob/main/desibel.ipynb
 
+# Certificates
+
+I believe the best way to showcase skills is to do and share what you do. Certificates are part of that. Here is a list of certificates I have:
+
+https://drive.google.com/file/d/1aoH38ZgWlbM-KaqHfn-ea9coBsLXD0Cr/view?usp=sharing By Google
+
 
