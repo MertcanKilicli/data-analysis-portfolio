@@ -11,5 +11,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
 Analysis of the Fisher Iris Dataset --> https://github.com/MertcanKilicli/data-analysis-projects/tree/main/fisher
+Blood pressure values analysis --> https://github.com/MertcanKilicli/data-analysis-projects/tree/main/tansiyon
+decibel values analysis --> https://github.com/MertcanKilicli/data-analysis-projects/blob/main/desibel.ipynb
 
 
