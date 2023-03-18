@@ -33,3 +33,9 @@ I believe the best way to showcase skills is to do and share what you do. Certif
 [Python Basics for Data Science By IBM](https://drive.google.com/file/d/19EN8oHkGpvHx2db1K6UqCirAyeMBx1xX/view?usp=share_link)
 
 [R Programming By John Hopkings University](https://drive.google.com/file/d/1V63VUBgVyHdz4bzr21sKF1-2HvENhede/view?usp=share_link)
+
+# Contacts
+
+[Linkedin](https://www.linkedin.com/in/mertcan-k%C4%B1l%C4%B1%C3%A7l%C4%B1-5b3492213/)
+[Twitter](https://twitter.com/fullmetee)
+[E-mail](mertcankiliclii@gmail.com)
