@@ -20,7 +20,7 @@ decibel values analysis --> https://github.com/MertcanKilicli/data-analysis-proj
 
 I believe the best way to showcase skills is to do and share what you do. Certificates are part of that. Here is a list of certificates I have:
 
-(https://drive.google.com/file/d/1aoH38ZgWlbM-KaqHfn-ea9coBsLXD0Cr/view?usp=sharing) [Foundations: Data, Data, Everywhere by Google]
+[Foundations: Data, Data, Everywhere by Google] (https://drive.google.com/file/d/1aoH38ZgWlbM-KaqHfn-ea9coBsLXD0Cr/view?usp=sharing)
 
 (https://drive.google.com/file/d/19bNuczI0o3D5IPuOY_-PQ9Xlh7mdT4nz/view?usp=share_link) [Ask Questions to Make Data-Driven Decisions by Google]
 
