@@ -9,3 +9,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 # Study projects
 
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+Analysis of the Fisher Iris Dataset --> data-analysis-projects/fisher/
+
+
