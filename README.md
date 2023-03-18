@@ -20,16 +20,16 @@ decibel values analysis --> https://github.com/MertcanKilicli/data-analysis-proj
 
 I believe the best way to showcase skills is to do and share what you do. Certificates are part of that. Here is a list of certificates I have:
 
-https://drive.google.com/file/d/1aoH38ZgWlbM-KaqHfn-ea9coBsLXD0Cr/view?usp=sharing Foundations: Data, Data, Everywhere by Google
+(https://drive.google.com/file/d/1aoH38ZgWlbM-KaqHfn-ea9coBsLXD0Cr/view?usp=sharing) [Foundations: Data, Data, Everywhere by Google]
 
-https://drive.google.com/file/d/19bNuczI0o3D5IPuOY_-PQ9Xlh7mdT4nz/view?usp=share_link Ask Questions to Make Data-Driven Decisions by Google
+(https://drive.google.com/file/d/19bNuczI0o3D5IPuOY_-PQ9Xlh7mdT4nz/view?usp=share_link) [Ask Questions to Make Data-Driven Decisions by Google]
 
-https://drive.google.com/file/d/1x1BjMtKbW1K28bNLdBvyeO1vAYSgsgjy/view?usp=share_link Data Science: Probability By HarvardX
+(https://drive.google.com/file/d/1x1BjMtKbW1K28bNLdBvyeO1vAYSgsgjy/view?usp=share_link) [Data Science: Probability By HarvardX]
 
-https://drive.google.com/file/d/1i1w-bNnr1PHkBoBM5z-224EHNdYNNm_N/view?usp=share_link Data Science: Productivity Tools By HarvardX
+(https://drive.google.com/file/d/1i1w-bNnr1PHkBoBM5z-224EHNdYNNm_N/view?usp=share_link) [Data Science: Productivity Tools By HarvardX]
 
-https://drive.google.com/file/d/1-MZmYPKrRHT3Pxfun7FVjvsgnzlhUsTE/view?usp=share_link Data Science: Visualization By HarvardX
+(https://drive.google.com/file/d/1-MZmYPKrRHT3Pxfun7FVjvsgnzlhUsTE/view?usp=share_link) [Data Science: Visualization By HarvardX]
 
-https://drive.google.com/file/d/19EN8oHkGpvHx2db1K6UqCirAyeMBx1xX/view?usp=share_link Python Basics for Data Science By IBM
+(https://drive.google.com/file/d/19EN8oHkGpvHx2db1K6UqCirAyeMBx1xX/view?usp=share_link) [Python Basics for Data Science By IBM]
 
-https://drive.google.com/file/d/1V63VUBgVyHdz4bzr21sKF1-2HvENhede/view?usp=share_link R Programming By John Hopkings University
+(https://drive.google.com/file/d/1V63VUBgVyHdz4bzr21sKF1-2HvENhede/view?usp=share_link) [R Programming By John Hopkings University]
